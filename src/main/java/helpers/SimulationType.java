@@ -1,0 +1,5 @@
+package helpers;
+
+public enum SimulationType {
+  TEST, DEFAULT, COMPLEX, SIMPLE, BTC_6000_NODES, SELFISH_MINING, SIMPLE_SELFISH_MINING;
+}
